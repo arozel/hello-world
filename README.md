@@ -1,6 +1,8 @@
 # hello-world
 Just to test functionalities of github
 
-so here i just type whatever stuff.
+I remove the next line just because I can:
 This is another line.
 etc
+
+ok now I am writing more crap from emacs on my local machine.
